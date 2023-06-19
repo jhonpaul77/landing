@@ -40,10 +40,10 @@ import { default as testimonial1 } from 'common/assets/image/appCreativeTwo/test
 import { default as testimonial2Logo } from 'common/assets/image/appCreativeTwo/testimonial/logo-2.png';
 import { default as testimonial1Logo } from 'common/assets/image/appCreativeTwo/testimonial/logo.png';
 import walletImage from 'common/assets/image/appCreativeTwo/wallet-experience.png';
-import dribbble from 'common/assets/image/webAppCreative/icons/dribbble.png';
-import facebook from 'common/assets/image/webAppCreative/icons/facebook.png';
-import twitter from 'common/assets/image/webAppCreative/icons/twitter.png';
-import siteLogo from 'common/assets/image/webAppCreative/logo.png';
+// import dribbble from 'common/assets/image/appCreativeTwo/icons/icon14.png';
+// import facebook from 'common/assets/image/appCreativeTwo/icons/icon14.png';
+// import twitter from 'common/assets/image/appCreativeTwo/icons/icon14.png';
+ import siteLogo from 'common/assets/image/appCreativeTwo/icons/1.png';
 
 
 /* ------------------------------------ */
@@ -498,7 +498,7 @@ export const callToAction = {
 /* ------------------------------------ */
 export const footerTop = {
   about: {
-    logo: siteLogo,
+    logo:siteLogo,
     text: `Dapatkan lebih banyak informasi dan nilai pelanggan dari data Anda dengan menyatukan sumber data dari customer untuk membuat keputusan dimasa mendatang. `,
   },
   widgets: [
@@ -598,7 +598,7 @@ export const footerTop = {
   ],
   contactInfo: {
     title: 'Contact info',
-    address: `Surabaya, Indonesia`,
+    address:`Surabaya, Indonesia`,
     phone: `+62 877 599 75 410`,
     openingTime: `7 Days - 8am - 10pm`,
     email: `info.demo@mikroapps.id`,
@@ -632,24 +632,24 @@ export const footer = {
   //     link: '#',
   //   },
   // ],
-  socialLinks: [
-    {
-      id: 1,
-      link: 'http://facebook.com',
-      icon: facebook,
-      label: 'Facebook',
-    },
-    {
-      id: 2,
-      link: 'http://twitter.com',
-      icon: twitter,
-      label: 'Twitter',
-    },
-    {
-      id: 3,
-      link: 'http://dribbble.com',
-      icon: dribbble,
-      label: 'Youtube',
-    },
-  ],
+  // socialLinks: [
+  //   {
+  //     id: 1,
+  //     link: 'http://facebook.com',
+  //     icon: facebook,
+  //     label: 'Facebook',
+  //   },
+  //   {
+  //     id: 2,
+  //     link: 'http://twitter.com',
+  //     icon: twitter,
+  //     label: 'Twitter',
+  //   },
+  //   {
+  //     id: 3,
+  //     link: 'http://dribbble.com',
+  //     icon: dribbble,
+  //     label: 'Youtube',
+  //   },
+  // ],
 };
