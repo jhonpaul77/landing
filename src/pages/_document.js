@@ -30,6 +30,7 @@ export default class CustomDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="icon" href="/favicon.png" />
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@700;800&display=swap" />
           {/* <link
             rel="icon"
             href="https://react-next-landing.redq.io/_next/static/images/favicon-ec2551afb2782a53fb493269d1ba4efe.png"

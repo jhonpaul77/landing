@@ -33,10 +33,10 @@ const appCreativeTwo = () => {
           <meta name="theme-color" content="#ec5555" />
           {/* Load google fonts */}
           <link rel="preconnect" href="https://fonts.gstatic.com" />
-          <link
+          {/* <link
             rel="stylesheet"
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@700;800&display=swap"
-          />
+          /> */}
         </Head>
 
         <ResetCSS />
