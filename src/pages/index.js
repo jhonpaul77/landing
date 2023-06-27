@@ -28,7 +28,7 @@ const appCreativeTwo = () => {
     <ThemeProvider theme={theme}>
       <Fragment>
         <Head>
-          <title>App Creative by semesta manfaat | Aplikasi terdepan untuk umkm</title>
+          <title>App Creative by MikroApps | Aplikasi terdepan untuk umkm</title>
           <meta name="Description" content="React next landing page" />
           <meta name="theme-color" content="#ec5555" />
           {/* Load google fonts */}
